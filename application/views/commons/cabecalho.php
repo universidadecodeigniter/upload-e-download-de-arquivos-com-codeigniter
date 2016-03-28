@@ -4,11 +4,11 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Descrição do tutorial/exemplo">
+    <meta name="description" content="Tutorial ensinando como fazer upload e download de arquivos utilizando as libraries nativas do CodeIgniter">
     <meta name="author" content="Universidade CodeIgniter">
     <link rel="icon" href="<?=base_url('assets/images/unici/favicon.png')?>">
 
-    <title>Título do Tutorial/Exemplo</title>
+    <title>Upload e Download de Arquivos</title>
 
     <!-- Folha de estilo do Boostrap 3.3.6 -->
     <link href="<?=base_url('assets/css/bootstrap/bootstrap.min.css')?>" rel="stylesheet">
